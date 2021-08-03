@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F7BA2DA026B9DDBF007281AA /* AppTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7BA2DA026B9DDBF007281AA /* War.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = War.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7BA2DA326B9DDBF007281AA /* AppTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTutorialApp.swift; sourceTree = "<group>"; };
 		F7BA2DA526B9DDBF007281AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7BA2DA726B9DDC4007281AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		F7BA2DA126B9DDBF007281AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F7BA2DA026B9DDBF007281AA /* AppTutorial.app */,
+				F7BA2DA026B9DDBF007281AA /* War.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,9 +72,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F7BA2D9F26B9DDBF007281AA /* AppTutorial */ = {
+		F7BA2D9F26B9DDBF007281AA /* War */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F7BA2DAF26B9DDC4007281AA /* Build configuration list for PBXNativeTarget "AppTutorial" */;
+			buildConfigurationList = F7BA2DAF26B9DDC4007281AA /* Build configuration list for PBXNativeTarget "War" */;
 			buildPhases = (
 				F7BA2D9C26B9DDBF007281AA /* Sources */,
 				F7BA2D9D26B9DDBF007281AA /* Frameworks */,
@@ -84,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = AppTutorial;
+			name = War;
 			productName = AppTutorial;
-			productReference = F7BA2DA026B9DDBF007281AA /* AppTutorial.app */;
+			productReference = F7BA2DA026B9DDBF007281AA /* War.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F7BA2D9B26B9DDBF007281AA /* Build configuration list for PBXProject "AppTutorial" */;
+			buildConfigurationList = F7BA2D9B26B9DDBF007281AA /* Build configuration list for PBXProject "War" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,7 +116,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F7BA2D9F26B9DDBF007281AA /* AppTutorial */,
+				F7BA2D9F26B9DDBF007281AA /* War */,
 			);
 		};
 /* End PBXProject section */
@@ -307,7 +307,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F7BA2D9B26B9DDBF007281AA /* Build configuration list for PBXProject "AppTutorial" */ = {
+		F7BA2D9B26B9DDBF007281AA /* Build configuration list for PBXProject "War" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7BA2DAD26B9DDC4007281AA /* Debug */,
@@ -316,7 +316,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F7BA2DAF26B9DDC4007281AA /* Build configuration list for PBXNativeTarget "AppTutorial" */ = {
+		F7BA2DAF26B9DDC4007281AA /* Build configuration list for PBXNativeTarget "War" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F7BA2DB026B9DDC4007281AA /* Debug */,
