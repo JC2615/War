@@ -19,30 +19,40 @@ struct ContentView: View {
                 
                 Image("logo")
                 Spacer()
-                HStack(spacing: 50.0) {
+                HStack() {
+                    Spacer()
                     Image("card3")
+                    Spacer()
                     Image("card4")
+                    Spacer()
                 }
                 Spacer()
                 Image("dealbutton")
                 Spacer()
-                HStack(spacing: 50.0) {
+                HStack() {
+                    Spacer()
                     VStack(spacing: 25.0){
                         Text("Player")
+                            .font(.headline)
                             .foregroundColor(Color.white)
                             .fontWeight(.heavy)
                         Text("0")
+                            .font(.largeTitle)
                             .foregroundColor(Color.white)
                             .fontWeight(.heavy)
                     }
+                    Spacer()
                     VStack(spacing: 25.0){
                         Text("CPU")
+                            .font(.headline)
                             .foregroundColor(Color.white)
                             .fontWeight(/*@START_MENU_TOKEN@*/.heavy/*@END_MENU_TOKEN@*/)
                         Text("0")
+                            .font(.largeTitle)
                             .foregroundColor(Color.white)
                             .fontWeight(.heavy)
                     }
+                    Spacer()
                 }
                 
                 
