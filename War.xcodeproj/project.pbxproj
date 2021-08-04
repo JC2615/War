@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F7BA2DA426B9DDBF007281AA /* AppTutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BA2DA326B9DDBF007281AA /* AppTutorialApp.swift */; };
+		F7BA2DA426B9DDBF007281AA /* War.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BA2DA326B9DDBF007281AA /* War.swift */; };
 		F7BA2DA626B9DDBF007281AA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7BA2DA526B9DDBF007281AA /* ContentView.swift */; };
 		F7BA2DA826B9DDC4007281AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7BA2DA726B9DDC4007281AA /* Assets.xcassets */; };
 		F7BA2DAB26B9DDC4007281AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7BA2DAA26B9DDC4007281AA /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		F7BA2DA026B9DDBF007281AA /* War.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = War.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F7BA2DA326B9DDBF007281AA /* AppTutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTutorialApp.swift; sourceTree = "<group>"; };
+		F7BA2DA326B9DDBF007281AA /* War.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = War.swift; sourceTree = "<group>"; };
 		F7BA2DA526B9DDBF007281AA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7BA2DA726B9DDC4007281AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7BA2DAA26B9DDC4007281AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -36,7 +36,7 @@
 		F7BA2D9726B9DDBF007281AA = {
 			isa = PBXGroup;
 			children = (
-				F7BA2DA226B9DDBF007281AA /* AppTutorial */,
+				F7BA2DA226B9DDBF007281AA /* War */,
 				F7BA2DA126B9DDBF007281AA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,16 +49,16 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F7BA2DA226B9DDBF007281AA /* AppTutorial */ = {
+		F7BA2DA226B9DDBF007281AA /* War */ = {
 			isa = PBXGroup;
 			children = (
-				F7BA2DA326B9DDBF007281AA /* AppTutorialApp.swift */,
+				F7BA2DA326B9DDBF007281AA /* War.swift */,
 				F7BA2DA526B9DDBF007281AA /* ContentView.swift */,
 				F7BA2DA726B9DDC4007281AA /* Assets.xcassets */,
 				F7BA2DAC26B9DDC4007281AA /* Info.plist */,
 				F7BA2DA926B9DDC4007281AA /* Preview Content */,
 			);
-			path = AppTutorial;
+			path = War;
 			sourceTree = "<group>";
 		};
 		F7BA2DA926B9DDC4007281AA /* Preview Content */ = {
@@ -139,7 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7BA2DA626B9DDBF007281AA /* ContentView.swift in Sources */,
-				F7BA2DA426B9DDBF007281AA /* AppTutorialApp.swift in Sources */,
+				F7BA2DA426B9DDBF007281AA /* War.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
